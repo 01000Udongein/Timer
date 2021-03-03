@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\ayuka\Desktop\Timer\Timer\MyForm.cpp(3,22): error C2871: 'Hello': この名前を指定された名前空間は存在しません。
+C:\Users\ayuka\Desktop\Timer\Timer\MyForm.cpp(5,20): error C2337: 'STAThreadAttribute': 属性が見つかりません。
+C:\Users\ayuka\Desktop\Timer\Timer\MyForm.cpp(7,18): error C2653: 'Application': 識別子がクラス名でも名前空間名でもありません。
+C:\Users\ayuka\Desktop\Timer\Timer\MyForm.cpp(7,31): error C2061: 構文エラー: 識別子 'MyForm'
+C:\Users\ayuka\Desktop\Timer\Timer\MyForm.cpp(7,15): error C3861: 'Run': 識別子が見つかりませんでした

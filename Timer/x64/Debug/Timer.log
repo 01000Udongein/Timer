@@ -1,0 +1,6 @@
+﻿  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  MyForm.cpp
+C:\Users\ayuka\Desktop\soft\Timer\Timer\MyForm.h(387,12): warning C4244: '引数': 'time_t' から 'unsigned int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+  MyForm.obj : MSIL モジュールが見つかりました。MSIL ではインクリメンタル リンクは無効化されています。フル リンクを行います
+  Timer.vcxproj -> C:\Users\ayuka\Desktop\soft\Timer\x64\Debug\Timer.exe

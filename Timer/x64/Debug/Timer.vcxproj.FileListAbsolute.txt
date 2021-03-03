@@ -1,0 +1,3 @@
+C:\Users\ayuka\Desktop\soft\Timer\Timer\x64\Debug\Timer.vcxprojAssemblyReference.cache
+C:\Users\ayuka\Desktop\soft\Timer\Timer\x64\Debug\Timer.MyForm.resources
+C:\Users\ayuka\Desktop\soft\Timer\Timer\x64\Debug\Timer.vcxproj.GenerateResource.cache
